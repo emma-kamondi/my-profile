@@ -1,0 +1,48 @@
+/*Colors and fonts */
+body {
+	background: #FFFFFF;
+	color: rgb(55,55,55);
+	font-family: "Lora", serif;
+	font-size: 17px
+}
+
+h1,h2 {
+	font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+	color: #586878;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 32px;
+}
+
+h2 {
+	color: rgb(100,100,100);
+	font-family: 'Montserrat', sans-serif;
+	font-size: 24px;
+	font-weight: lighter;
+}
+
+a{
+	text-decoration: none;
+	color: purple;
+
+}
+
+a:hover {
+	color: red;
+}	
+
+
+.btn-blue {
+	background:#586878;
+	color: white;
+	padding: 8px 8px;
+	border-radius: 4px;
+}
+.btn-blue:hover {
+	background: black;
+	color: white;
+
+
+
